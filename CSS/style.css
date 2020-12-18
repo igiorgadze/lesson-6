@@ -124,3 +124,38 @@
     background-color: #181C28;
     margin-top: 134px;
 }
+/*FOOTER*//
+.footer-div {
+    margin-top: 82px;
+}
+.block-1 {
+    margin-right: 198px;
+}
+.block-2 {
+    margin-right: 200px;
+}
+.block-3 {
+    margin-right: 217px;
+}
+
+h3 {
+    margin-top: 82px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    color:#282828
+}
+li {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #7B7B7B;
+    font-family: 'Poppins', sans-serif;
+}
+.copuright {
+    margin-top: 168px;
+    font-size: 16px;
+    color: #7B7B7B;
+    font-family: 'Poppins', sans-serif;
+}
+
+
