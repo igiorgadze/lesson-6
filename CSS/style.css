@@ -17,14 +17,14 @@
 .text-image {
     position: absolute;
     top: 105px;
-    left: 880px;
+    left: 600px;
     font-size: 22px;
     color: white;
 }
 .text-image-2 {
     position: absolute;
     top: 125px;
-    left: 920px;
+    left: 640px;
     font-size: 48px;
     color: white;
 }
@@ -124,7 +124,7 @@
     background-color: #181C28;
     margin-top: 134px;
 }
-/*FOOTER*//
+/*FOOTER*/
 .footer-div {
     margin-top: 82px;
 }
@@ -159,3 +159,11 @@ li {
 }
 
 
+.block-images {
+    float: right;
+}
+
+.image-amex
+{
+    vertical-align: middle;
+}
